@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Allen 👋
 
-<!--
-**shozuu/shozuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end data solutions that transform raw datasets into actionable business insights. My work focuses on data preparation, exploratory analysis, visualization, and communicating findings that support data-driven decision making.
 
-Here are some ideas to get you started:
+## 📂 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore my collection of data projects, where I showcase each project as a culmination and application of my learnings.
+
+➡️ **[View My Portfolio](https://github.com/yourusername/data-portfolio)**
+
+## 🎯 Areas of Focus
+
+* Data Analytics
+* Data Preparation & Transformation
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Business Intelligence & Reporting
+* Insight Generation
+
+## 🤝 Connect
+
+* LinkedIn: https://linkedin.com/in/allenbtan
+* Email: [tanallenbernard@gmail.com](mailto:tanallenbernard@gmail.com)
